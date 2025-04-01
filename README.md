@@ -1,1 +1,1 @@
-Download the file, unzip it, paste it into the first folder you open when you hit Local Files, run it, and choose whichever option you think fits what you need.
+Unzip the Unren folder, grab the exe from inside, paste it into the renpy game's files, run it, and choose whichever option you think fits what you need.
